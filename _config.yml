@@ -20,6 +20,10 @@ youtube_username: "evergreenllc2020"
 #########################################################################################
 theme: "minima"
 
+google_analytics:
+  - G-6L6Y04R2JP
+
+
 rss: rss
 
 kramdown:
