@@ -1,6 +1,6 @@
 ### To remote or not ? That's the question
 
-![My image Name](/assets/images/remote-blog-image.jpeg)
+![My image Name](/assets/images/mobilephonespoc.jpg)
 
 As pandemic subsides, a lot of companies have started calling employees to return to the office. Some of these companies have done little to change the work culture without realizing that employees will not be looking back to go to the office without significant changes in the workplace. Goldman Sachs when asked employees to return to the office, only 50% of employees have turned up in the office.
 
