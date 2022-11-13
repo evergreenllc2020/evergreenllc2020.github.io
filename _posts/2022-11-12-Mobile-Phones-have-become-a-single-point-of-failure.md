@@ -1,4 +1,4 @@
-### To remote or not ? That's the question
+### Mobile phones have become a Single Point of Failures
 
 ![My image Name](/assets/images/mobilephonespoc.jpg)
 
