@@ -13,4 +13,5 @@ I am also available for technical consultation, resume screening and conducting 
 
 email : evergreenllc2020@gmail.com
 twitter: @evergreenllc2020
+Medium: https://evergreenllc2020.medium.com/
 linkedin: [evergreenllc2020](https://www.linkedin.com/in/evergreen-technologies-usa-3a7422198/)
